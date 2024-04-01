@@ -1,0 +1,38 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: Das Zwischenverzeichnis (Release\) enthält freigegebene Dateien aus einem anderen Projekt (GDV-SS22.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  teil_1.cpp
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(13,33): warning C4305: "Initialisierung": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(38,29): warning C4305: "Argument": Verkürzung von "double" in "GLclampf"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(56,23): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(62,26): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(63,23): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(70,29): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(72,31): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(76,31): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(78,33): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(81,31): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(83,27): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(87,29): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(88,24): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(95,29): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(97,31): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(101,32): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(103,32): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(105,32): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(106,27): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(110,30): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(111,24): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(119,25): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(121,24): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(123,28): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(124,25): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(131,25): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(133,24): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(136,29): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\teil_1.cpp(137,25): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+  Wuerfel.cpp
+  Code wird generiert.
+  18 of 19 functions (94.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  GDV-SS22.vcxproj -> C:\Users\nimet\Documents\Semester 6\GDV-SS22-P2\Release\GDV-SS22-P2.exe

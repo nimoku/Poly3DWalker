@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1092,5): error MSB6006: "link.exe" wurde mit dem Code 1120 beendet.
+teil_1.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__imp_glutReshapeFunc".
+teil_1.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__imp___glutCreateWindowWithExit".
+teil_1.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__imp___glutInitWithExit".
+teil_1.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__imp_glutPostRedisplay".
+teil_1.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__imp_glutInitDisplayMode".
+teil_1.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__imp_glutTimerFunc".
+teil_1.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__imp_glutDisplayFunc".
+teil_1.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__imp_glutMainLoop".
+teil_1.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__imp_glutInitWindowSize".
+teil_1.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__imp_glutSwapBuffers".
+C:\Users\nimet\Desktop\Semester 6\GDV-SS22-P2\x64\Release\GDV-SS22-P2.exe : fatal error LNK1120: 10 nicht aufgelöste Externe
